@@ -11,7 +11,7 @@ Email Notifications: When the light sensor value exceeds a preset threshold, an 
 
 Data Logging: The received data, along with the relevant date and time, is saved in an Excel file for future reference.
 
-Technical Details
+# Technical Details
 The project involves the following components and steps:
 
 Hardware Setup: An Arduino board is used to interface with the light sensor and obtain data.
